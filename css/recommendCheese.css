@@ -26,8 +26,21 @@ body{
     padding-top: 200px;
     text-align: center;
     font-size: 100px;
-    color: rgba(138, 217, 241, 0.705);
+    color: rgba(212, 216, 208, 0.856);
 }
+
+bgc {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.yellow {
+    color: rgb(223, 171, 29)
+}
+
+/* ------------------
+    CONTENTS
+--------------------*/
 
 .today-recommendation {
     padding-top: 50px;

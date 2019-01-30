@@ -38,16 +38,11 @@
         </ul>
     </aside>
     <section>
-        <?php
-            $title = "オススメのチーズ";
-            echo '<div class="wrapper-title">';
-                echo'<div class="main-img">';
-                    echo '<div class="title-bgc">';
-                        echo '<h2 class="main-title">'.$title.'</h2>';
-                    echo '</div>';
-                echo'</div>';
-            echo '</div>';
-        ?>
+        <div class="wrapper-title">
+            <div class="main-img">
+                <h2 class="main-title">オススメの<span class="yellow">チーズ<span></h1>
+            </div>
+        </div>
     </section>
     <!-- 曜日からオススメのチーズとワインを表示 -->
     <section class="wrapper">
