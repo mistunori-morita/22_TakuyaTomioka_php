@@ -1,0 +1,41 @@
+/* --------------------
+    common configuration
+---------------------- */
+
+body{
+    background-color: #fff;
+}
+/* ----------------
+    MAIM-VISUAL 
+------------------*/
+.box-center {
+    margin: auto;
+}
+.wrapper {
+    margin-top: 60px;
+    margin-left: 60px;
+    width: 100%;
+}
+.main-img {
+    height: 700px;
+    background: url(../kadaiImage/cheese-main.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.main-title {
+    padding-top: 200px;
+    text-align: center;
+    font-size: 100px;
+    color: rgba(138, 217, 241, 0.705);
+}
+
+.today-recommendation {
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.recommended-cheese {
+    margin-top: 30px;
+    width: 50%;
+    height: auto;
+}

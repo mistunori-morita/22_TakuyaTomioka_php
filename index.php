@@ -34,7 +34,7 @@
                 <li><span>コンテンツ</span></li>
                 <li><a href="#">チーズを知ろう</a></li>
                 <li><a href="#">チーズのビデオを観る</a></li>
-                <li><a href="cheese.php">オススメのチーズ</a></li>
+                <li><a href="recommendCheese.php">オススメのチーズ</a></li>
                 <li><a href="#">サイトの作成者について</a></li>
                 <li><a href="#">チーズアカデミーに入学する</a></li>
             </ul>
