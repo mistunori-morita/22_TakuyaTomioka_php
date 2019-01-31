@@ -73,8 +73,8 @@ body{
     visibility: hidden;
 }
 
-.nav-sidebar ul li{
-    line-height: 60px
+.nav-sidebar ul li {
+    line-height: 60px;
     list-style: none;
 }
 
