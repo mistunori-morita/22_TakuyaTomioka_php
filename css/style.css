@@ -32,11 +32,12 @@ nav ul{
 /*******MAIN IMAGE*******/
 
 .main-visual{
-    background-image: url(../kadaiImage/mainbg.png);
+    background-image: url(../kadaiImage/mainbg.png) no-repeat center center;
     width: 100%;
     height: 500px;
-    background-repeat: no-repeat;
-    margin: auto;
+    background-size: cover;
+    margin-top: 60px;
+    margin-left: 60px;
 }
 
 .main-text{

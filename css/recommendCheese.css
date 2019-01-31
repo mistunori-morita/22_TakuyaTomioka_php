@@ -29,11 +29,6 @@ body{
     color: rgba(212, 216, 208, 0.856);
 }
 
-bgc {
-    background-color: black;
-    opacity: 0.5;
-}
-
 .yellow {
     color: rgb(223, 171, 29)
 }
